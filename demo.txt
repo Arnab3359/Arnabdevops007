@@ -1,2 +1,2 @@
 This a demo file to understand working directory
-Arnab is new to Git training
+It is my new class.
