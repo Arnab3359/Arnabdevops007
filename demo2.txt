@@ -1,1 +1,2 @@
 Thi is my new demo2 file
+Adding another line
